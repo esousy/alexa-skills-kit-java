@@ -1,0 +1,9 @@
+LightOneOnIntent turn on light one
+LightOneOnIntent switch on light one
+LightOneOnIntent on light one
+LightOneOnIntent light one on
+
+LightOneOffIntent turn off light one
+LightOneOffIntent switch off light one
+LightOneOffIntent off light one
+LightOneOffIntent light one off

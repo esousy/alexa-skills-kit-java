@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "LightOneOnIntent"
+    },
+    {
+      "intent": "LightOneOffIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
