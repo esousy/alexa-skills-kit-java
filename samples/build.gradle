@@ -1,6 +1,6 @@
 apply plugin: 'java'
 
-group = "alexa-skills-kit-samples"
+group = "alexa-gedomo-connect"
 version = '1.0'
 
 compileJava {

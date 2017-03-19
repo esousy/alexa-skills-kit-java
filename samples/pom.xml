@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>alexa-skills-kit-samples</groupId>
-  <artifactId>alexa-skills-kit-samples</artifactId>
+  <groupId>alexa-gedomo-connect</groupId>
+  <artifactId>alexa-gedomo-connect</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
   <name>Alexa Skills Kit Samples</name>
@@ -80,6 +80,16 @@
       <artifactId>aws-java-sdk-dynamodb</artifactId>
       <version>1.9.40</version>
     </dependency>
+    <dependency>
+	    <groupId>org.apache.axis</groupId>
+	    <artifactId>axis</artifactId>
+	    <version>1.4</version>
+	</dependency>
+	<dependency>
+	    <groupId>javax.xml</groupId>
+	    <artifactId>jaxrpc-api</artifactId>
+	    <version>1.1</version>
+	</dependency>
   </dependencies>
 
   <properties>
